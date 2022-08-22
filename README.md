@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/pedrosuassuna"></a>
   <img style="margin-right: 15px" height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrosuassuna&show_icons=true&theme=minimal&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosuassuna&layout=compact&langs_count=16&theme=slate"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/username=pedrosuassuna&layout=compact&langs_count=16&theme=minimal"/>
 </div>
 
 #
